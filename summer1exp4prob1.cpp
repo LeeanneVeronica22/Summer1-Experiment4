@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cmath>
-
+#include<conio.h>
 using namespace std;
 
 // creating functions for each operation
@@ -194,6 +194,7 @@ int main()
 	{
 		return 0;
 		}	
+getch();
 return 0;
 }
 
